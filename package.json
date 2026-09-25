@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/coffee-joy/",
+    "build": "vite build --base=/Coffee-joy/",
     "preview": "vite preview"
   },
   "devDependencies": {
